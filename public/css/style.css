@@ -1,0 +1,63 @@
+
+body{
+	background: #020631;
+	font: 14px 'Nunito', sans-serif;
+}
+.bg-color,.bg-color:hover{
+	background: #6507F8;
+}
+.todo-list{
+	padding-top: 75px;
+	width: 36%;
+    margin: 0 auto;
+
+}
+.logo {
+    text-align: center;
+    margin-top: 30px;
+}
+.todo-list-form{
+	padding: 40px 0px;
+}
+.todo-form{
+	position: relative;
+}
+.todo-form input[type="text"]{
+	padding-right: 62px;
+}
+.todo-form button{
+	position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 20px;
+    margin: 1px;
+}
+.todo-list-data{
+}
+.table-list{}
+.table-id{
+	width: 5%;
+	vertical-align: middle;
+	font-size: 16px;
+}
+.table-name{
+	width: 80%;
+	vertical-align: middle;
+	font-size: 16px;
+}
+.table-action{
+	width: 15%;
+	text-align: end;
+	vertical-align: middle;
+}
+.table-action a{
+	padding: 0px 5px;
+	font-size: 20px;
+	vertical-align: middle;
+}
+.edit i{
+	vertical-align: middle;
+}
+.delete i{
+	vertical-align: middle;
+}

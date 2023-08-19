@@ -1,1 +1,1 @@
-<h1>Simple Laravel Crud To-Do</h1>
+<h1>Simple To-Do Laravel Crud</h1>
